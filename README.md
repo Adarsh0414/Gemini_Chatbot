@@ -21,7 +21,7 @@ To get started with the project, follow the steps below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KalyanMurapaka45/Gemini-ChatBot.git
+   git clone https://github.com/Adarsh0414/Gemini_Chatbot.git
    cd gemini-pro-chat
    ```
 
